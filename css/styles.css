@@ -324,7 +324,7 @@ img {
     gap: 24px;
 }
 
-.team-element.list-tean-element {
+.team-element.list-team-element {
     box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
                 0px 1px 1px rgba(46, 47, 66, 0.16),
                 0px 2px 1px rgba(46, 47, 66, 0.08);
@@ -541,9 +541,6 @@ img {
     background-color: #4d5ae5;
 }
 
-.list-icons-footer .socials-svg {
-    fill: #f4f4fd;
-}
 
 .list-icons-footer .social-link {
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -553,3 +550,4 @@ img {
 .list-icons-footer .social-link:focus {
     background-color: #31d0aa;
 }
+/* #endregion footer */
